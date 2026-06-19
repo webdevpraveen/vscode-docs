@@ -1,3 +1,21 @@
+<h2>🌍 Open Source Contribution</h2>
+<div style="border:1px solid #ddd; padding:15px; border-radius:8px; margin:10px 0; background:#f9f9f9;">
+  <h3>Microsoft VS Code Docs</h3>
+  <p>
+    Pull Request: 
+    <a href="https://github.com/microsoft/vscode-docs/pull/9922" target="_blank">
+      docs(tutorial): remove hardcoded gpt-4o family (#9922)
+    </a>
+  </p>
+  <p>
+    Fixed brittle tutorial code by replacing hardcoded <code>family: "gpt-4o"</code> with vendor-based selector.  
+    <br><em>Status: Closed (but valuable documentation fix)</em>
+  </p>
+</div>
+
+
+----
+
 <p align="center">
   <img alt="vscode logo" src="images/logo-stable.png" width="100px" />
   <h1 align="center">Visual Studio Code Documentation</h1>
